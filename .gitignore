@@ -12,6 +12,7 @@ backend/.idea/
 backend/.project
 backend/.classpath
 backend/.settings/
+backend/.metadata
 
 # --- OS/Editor ---
 .DS_Store
