@@ -1,0 +1,22 @@
+# --- Frontend ---
+frontend/node_modules/
+frontend/dist/
+frontend/.vite
+frontend/.DS_Store
+frontend/.env
+frontend/*.local
+
+# --- Backend ---
+backend/target/
+backend/.idea/
+backend/.project
+backend/.classpath
+backend/.settings/
+
+# --- OS/Editor ---
+.DS_Store
+Thumbs.db
+
+# --- Secrets (belt-and-suspenders) ---
+backend/src/main/resources/application.properties
+backend/src/main/resources/application.yml
